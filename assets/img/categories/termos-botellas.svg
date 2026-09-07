@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340">
+    <rect width="400" height="340" rx="34" fill="#F7EDE4"/>
+    <circle cx="330" cy="55" r="32" fill="#EAC7CB" opacity=".75"/>
+    <circle cx="70" cy="285" r="45" fill="#D79CA4" opacity=".18"/>
+    <g color="#4A2A20">
+        <path d="M153 58h54v25h-54zM160 83h40v28l18 28v73a14 14 0 0 1-14 14h-48a14 14 0 0 1-14-14v-73l18-28z" fill="none" stroke="currentColor" stroke-width="7" stroke-linejoin="round"/>
+        <path d="M148 146h64" fill="none" stroke="currentColor" stroke-width="7"/>
+        </g>
+    <text x="34" y="304" font-family="Georgia,serif" font-size="25" fill="#4A2A20">Termos y botellas</text>
+    <text x="34" y="326" font-family="Arial,sans-serif" font-size="12" fill="#6C5147">Para llevar tu estilo</text>
+    </svg>

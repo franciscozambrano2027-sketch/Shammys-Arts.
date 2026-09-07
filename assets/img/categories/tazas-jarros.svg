@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340">
+    <rect width="400" height="340" rx="34" fill="#F7EDE4"/>
+    <circle cx="330" cy="55" r="32" fill="#EAC7CB" opacity=".75"/>
+    <circle cx="70" cy="285" r="45" fill="#D79CA4" opacity=".18"/>
+    <g color="#4A2A20">
+        <path d="M118 112h106v86a20 20 0 0 1-20 20h-66a20 20 0 0 1-20-20z" fill="none" stroke="currentColor" stroke-width="7"/>
+        <path d="M224 130h27a31 31 0 0 1 0 62h-27" fill="none" stroke="currentColor" stroke-width="7"/>
+        <path d="M138 93c0-18 13-29 13-44M170 93c0-18 13-29 13-44M202 93c0-18 13-29 13-44" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+        </g>
+    <text x="34" y="304" font-family="Georgia,serif" font-size="25" fill="#4A2A20">Tazas y jarros</text>
+    <text x="34" y="326" font-family="Arial,sans-serif" font-size="12" fill="#6C5147">Cerámica · Térmicos</text>
+    </svg>

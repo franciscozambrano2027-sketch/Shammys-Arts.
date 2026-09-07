@@ -1,0 +1,36 @@
+<!-- PLANTILLA BASE · Shammy's Arts
+     Copia este archivo para crear una nueva categoría.
+     Reemplaza:
+     - {CATEGORY_TITLE}
+     - {CATEGORY_TAG}
+     - {CATEGORY_IMAGE}
+     - {CATEGORY_DESCRIPTION}
+     - {BULLET_1}, {BULLET_2}, {BULLET_3}
+-->
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{CATEGORY_TITLE} · Shammy's Arts</title>
+<link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body class="page-enter">
+<!-- Copia el header desde cualquier producto existente -->
+<main>
+<section class="container detail-hero">
+  <div class="detail-visual reveal"><img src="../assets/img/categories/{CATEGORY_IMAGE}" alt="{CATEGORY_TITLE}"></div>
+  <div class="detail-copy reveal delay-1">
+    <span class="eyebrow">{CATEGORY_TAG}</span>
+    <h1>{CATEGORY_TITLE}</h1>
+    <p class="lead">{CATEGORY_DESCRIPTION}</p>
+    <div class="detail-meta"><span class="pill">Personalizable</span><span class="pill">Hecho con dedicación</span></div>
+    <ul class="feature-list">
+      <li>{BULLET_1}</li><li>{BULLET_2}</li><li>{BULLET_3}</li>
+    </ul>
+    <a class="btn btn-primary" href="../contacto.html">Quiero cotizar →</a>
+  </div>
+</section>
+</main>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

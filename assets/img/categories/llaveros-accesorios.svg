@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340">
+    <rect width="400" height="340" rx="34" fill="#F7EDE4"/>
+    <circle cx="330" cy="55" r="32" fill="#EAC7CB" opacity=".75"/>
+    <circle cx="70" cy="285" r="45" fill="#D79CA4" opacity=".18"/>
+    <g color="#4A2A20">
+        <circle cx="150" cy="144" r="38" fill="none" stroke="currentColor" stroke-width="7"/>
+        <path d="M181 172l61 61M215 206l22-22M231 222l20-20" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+        <path d="M136 144h28M150 130v28" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+        </g>
+    <text x="34" y="304" font-family="Georgia,serif" font-size="25" fill="#4A2A20">Llaveros y accesorios</text>
+    <text x="34" y="326" font-family="Arial,sans-serif" font-size="12" fill="#6C5147">Detalles con significado</text>
+    </svg>
